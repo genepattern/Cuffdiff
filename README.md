@@ -1,0 +1,2 @@
+# Cuffdiff
+GenePattern Cuffdiff module.
