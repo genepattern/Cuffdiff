@@ -1,4 +1,4 @@
-# Cuffdiff
+# Cuffdiff - DEPRECATED
 GenePattern Cuffdiff module.
 Finds significant changes in transcript expression, splicing, and promoter use.
 
